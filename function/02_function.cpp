@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+int power()
+{
+
+    int a;
+    int b;
+    cin >> a >> b;
+
+    int ans = 1;
+    for (int i = 1; i <= b; i++)
+    {
+        cout<<"answer is "<<endl;
+        ans = ans * a;
+    }
+    return ans;
+}
+int main()
+{
+    // int a, b;
+    // cin>>a>>b;
+    cout <<  power();
+
+    return 0;
+}

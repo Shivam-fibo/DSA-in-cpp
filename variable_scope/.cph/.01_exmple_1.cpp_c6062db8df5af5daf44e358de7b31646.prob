@@ -1,0 +1,1 @@
+{"name":"Local: 01_exmple_1","url":"c:\\Users\\HP\\Desktop\\All Material\\DSA\\variable_scope\\01_exmple_1.cpp","tests":[{"id":1665431868278,"input":"3\n\n101\n001\n11","output":"Yes\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\All Material\\DSA\\variable_scope\\01_exmple_1.cpp","group":"local","local":true}
